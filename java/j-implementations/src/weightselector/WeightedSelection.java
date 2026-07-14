@@ -1,4 +1,4 @@
-package weighted;
+package weightselector;
 
 import java.util.Arrays;
 import java.util.List;

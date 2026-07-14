@@ -1,4 +1,4 @@
-package weighted;
+package weightselector;
 
 public enum Fruits {
     DRAGONFRUIT(1),

@@ -1,7 +1,9 @@
-package weighted;
+package weightselector;
 
-import xio.selectors.AliasMethod;
-import xio.selectors.RouletteMethod;
+
+
+import weightselector.selectors.AliasMethod;
+import weightselector.selectors.RouletteMethod;
 
 import java.util.ArrayList;
 import java.util.HashMap;

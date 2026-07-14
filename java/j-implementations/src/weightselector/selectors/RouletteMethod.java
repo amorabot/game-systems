@@ -1,4 +1,4 @@
-package weighted;
+package weightselector.selectors;
 
 import java.util.Random;
 
